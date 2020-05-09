@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.springframework.shell:spring-shell-standard:2.0.0.RELEASE">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.shell/spring-shell-standard/2.0.0.RELEASE/671015e49bd3d64714f534ed9bbd192a69470a15/spring-shell-standard-2.0.0.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.shell/spring-shell-standard/2.0.0.RELEASE/37ee854727bc1fc5d1c7868bb5dd74ae98060536/spring-shell-standard-2.0.0.RELEASE-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
